@@ -26,5 +26,6 @@ def roman_to_integer():
         last_digit = i
         x += roman_integer #Adds single Roman Integer to Total
     print(x)
-
-roman_to_integer()
+    
+if __name__ == "__main__":
+    roman_to_integer()
