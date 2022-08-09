@@ -4,7 +4,7 @@
 
 ## About
 
-A function written in Python that accepts an input of Romanumerals, then converts it to an Integer.
+A function written in Python that accepts an input of romanumerals, then converts it to an Integer.
 
 ## Contact
 
